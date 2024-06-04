@@ -23,7 +23,7 @@ div(class="bg-white flex flex-col w-96 h-full fixed right-0 top-0 z-20 p-8")
         div(class="flex justify-between mb-10")
             span Налог 5%:
             div(class="relative mx-2 -top-1 flex-1 border-b border-dashed")
-            span(class="font-bold text-base") 1074 руб.
+            span(class="font-bold text-base") 1 074 руб.
 
         button(class=" hover:bg-lime-600 transition w-full py-3 bg-lime-500 text-white rounded-2xl bg-[url('/arrow-next.svg')] bg-no-repeat bg-right px-5 bg-origin-content text-base") Оформить заказ
 
